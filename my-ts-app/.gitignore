@@ -1,0 +1,55 @@
+# Dependencies
+/node_modules
+
+# Build output
+/build
+/dist
+/.parcel-cache
+
+# Editor/IDE files
+/.vscode
+/.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+*.suo
+*.user
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment configuration
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Log files
+npm-debug.log*
+
+# TypeScript output directory
+*.tsbuildinfo
+
+# User-specific files
+.npmrc
+yarn-error.log
+.pnpm-debug.log
+*.pnp.js
+
+# Create React App build output
+/build
+
+# Parcel.js cache and build output
+.cache
+/dist
+
+# Visual Studio Code settings
+.vscode
+
+# Node.js config
+node_modules/.cache
